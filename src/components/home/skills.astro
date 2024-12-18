@@ -1,5 +1,4 @@
 ---
-import { Image } from "astro:assets";
 import { getConfigFile } from "../../data";
 
 const { skills } = await getConfigFile();
@@ -31,7 +30,7 @@ const { skills } = await getConfigFile();
             {error ? (
               <div class="font-bold uppercase text-xl">{initial}</div>
             ) : (
-              <Image
+              <img
                 src={img.url}
                 alt={skill}
                 width={32}
