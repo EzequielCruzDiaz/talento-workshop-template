@@ -1,0 +1,30 @@
+{
+  "personalInfo": {
+    "firstName": "Ezequiel",
+    "lastName": "Cruz",
+    "about": "I am a software developer specialized in Next.js.",
+    "birthDate": "1999-04-21",
+    "email": "ezequielcruz018@gmail.com",
+    "github": "https://github.com/EzequielCruzDiaz"
+  },
+  "skills": ["JavaScript", "React", "TypeScript", "Next.js"],
+  "experiences": [
+    {
+      "dates": "2022-2023",
+      "role": "Licitador Público",
+      "company": "Simpapel",
+      "description": "Asistencia Administrativa y encargado de ofertar a instituciones del estado.",
+      "logo": "",
+      "example": true
+    }
+  ],
+  "projects": [
+    {
+      "name": "Guitarla",
+      "description": "E-commerce sobre ventas de artículos musicales.",
+      "image": "",
+      "url": "",
+      "example": true
+    }
+  ]
+}
